@@ -12,14 +12,7 @@ function Library() {
   }, []);
 
   return (
-    // TODO
-    // <FlatList
-    //   style={styles.XXX}
-    //   data={}
-    //   renderItem={}
-    //   keyExtractor={}
-    //   contentContainerStyle={styles.XXX}
-    // />
+    // TODO: Make a list of BookItems
     <BookItem />
   );
 }

@@ -1,7 +1,7 @@
 // import { BookState } from '@interfaces/book';
 import { ReduxAction } from '@interfaces/redux';
 
-// import { actions as bookActions } from './actions';
+// import { actions } from './actions';
 
 const initialState = {
   // TODO: Complete
