@@ -1,2 +1,1 @@
-# React Native Training: Base Repo
-Base repository for React Native training
+# React Native Live Technical Interview: WBooks App
